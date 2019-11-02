@@ -3,7 +3,7 @@
 
 # 使用方法
 ```
-git clone https://github.com/Jokcy/vue-todo-tech.git
+git clone git@github.com:1193755967/vue-todo-tech-master.git
 ```
 进入项目目录，运行
 ```
